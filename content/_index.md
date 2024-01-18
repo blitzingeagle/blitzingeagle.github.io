@@ -65,7 +65,7 @@ sections:
         - title: AI Product Manager
           company: TELUS AI Accelerator
           company_url: 'https://www.linkedin.com/in/morris-chen/'
-          company_logo: telus_aia.jpg
+          company_logo: telus_aia
           location: Toronto
           date_start: '2021-09-05'
           date_end: ''
@@ -77,7 +77,7 @@ sections:
         - title: AI Developer
           company: Royal Bank of Canada, Capital Markets
           company_url: ''
-          company_logo: rbc_cm.jpg
+          company_logo: rbc_cm
           location: Toronto
           date_start: '2020-05-01'
           date_end: '2020-08-31'
