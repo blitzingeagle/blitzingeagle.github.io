@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Morris Jamieson CHen
+title: Morris Jamieson Chen
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
