@@ -64,7 +64,7 @@ sections:
       items:
         - title: AI Product Manager
           company: TELUS AI Accelerator
-          company_url: 'https://www.linkedin.com/in/morris-chen/'
+          company_url: 'https://www.linkedin.com/showcase/telus-ai-accelerator/'
           company_logo: telus_aia.jpg
           location: Toronto
           date_start: '2021-09-05'
@@ -76,12 +76,47 @@ sections:
               * Pioneered use of GCP Vertex AI, MLOps pipelines, and BigQuery in the team.
         - title: AI Developer
           company: Royal Bank of Canada, Capital Markets
-          company_url: ''
+          company_url: 'https://www.linkedin.com/company/rbc-capital-markets/'
           company_logo: rbc_cm.jpg
           location: Toronto
           date_start: '2020-05-01'
           date_end: '2020-08-31'
-          description: Created document searching tool powered by Natural Language Processing document similarity to search over 20K financial regulations resources.
+          description: |2-
+              * Created document searching tool powered by Natural Language Processing document similarity to search over 20K financial regulations resources.
+              * Deployed NLP models and MLOps to monitor model drift and handle retraining.
+        - title: DevOps Engineer
+          company: TELUS, Innovation Factory, Subscriber Data Management
+          company_url: 'https://www.linkedin.com/company/telus/'
+          company_logo: telus.jpg
+          location: Toronto
+          date_start: '2019-09-01'
+          date_end: '2020-04-30'
+          description: |2-
+              * Created real-time language translation voice call service with Microsoft Azure.
+              * Built a test automation framework with Jenkins for testing 5G communications.
+        - title: Deep Learning Researcher
+          company: Industrial Technology Research Institute (ITRI)
+          company_url: 'https://www.linkedin.com/company/itri/'
+          company_logo: itri.jpg
+          location: Toronto
+          date_start: '2018-05-01'
+          date_end: '2019-12-31'
+          description: |2-
+              * Developed the first traffic surveillance system for the New Taipei Police Bureau, with automated license plate recognition using deep neural networks.
+              * Trained super-resolution models for video surveillance using GANs and U-Net.
+              * Deployed ML models for inference with NVIDIA CUDA and TensorRT.
+        - title: Data Scientist
+          company: Royal Bank of Canada, Capital Markets
+          company_url: 'https://www.linkedin.com/company/rbc-capital-markets/'
+          company_logo: rbc_cm.jpg
+          location: Toronto
+          date_start: '2019-05-01'
+          date_end: '2019-08-31'
+          description: |2-
+              * Created intelligent, patented* daily market analysis engine summarizing financial news and stock price movements.
+              * Performed idea creation in cross-functional team to identify stakeholder needs.
+
+              *Patent: https://patents.justia.com/patent/11556992
     design:
       columns: '2'
   - block: accomplishments
