@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: AI Product Manager
+        - title: AI Product Manager & Machine Learning Engineer
           company: TELUS AI Accelerator
           company_url: 'https://www.linkedin.com/showcase/telus-ai-accelerator/'
           company_logo: telus_aia.jpg
