@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,27 +62,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: AI Product Manager
+          company: TELUS AI Accelerator
+          company_url: 'https://www.linkedin.com/in/morris-chen/'
+          company_logo: telus_aia
+          location: Toronto
+          date_start: '2021-09-05'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Led the development of location analytics products to enable better customer marketing of TELUS products, leading to $16M in incremental revenues.
+              * Identified regional customer churn, and led a cross-functional team across engineering and marketing for churn saves, increasing revenues by $1.1M/yr.
+              * Created Generative AI chatbot and predictive regression models in call-center search tool, reducing 20 min per Client Care agent and saving $1M/yr in costs.
+              * Pioneered use of GCP Vertex AI, MLOps pipelines, and BigQuery in the team.
+        - title: AI Developer
+          company: Royal Bank of Canada, Capital Markets
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: rbc_cm
+          location: Toronto
+          date_start: '2020-05-01'
+          date_end: '2020-08-31'
+          description: Created document searching tool powered by Natural Language Processing document similarity to search over 20K financial regulations resources.
     design:
       columns: '2'
   - block: accomplishments

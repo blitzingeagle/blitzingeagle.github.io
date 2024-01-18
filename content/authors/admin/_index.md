@@ -67,10 +67,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Baseball
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: baseball
         icon_pack: fas
       - name: Cats
         description: ''
